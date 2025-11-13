@@ -88,7 +88,6 @@ html {
 }
 
 .aligned-text {
-  
   line-height: 1.15;
   letter-spacing: 0.3em;
   text-transform: uppercase;
@@ -97,7 +96,6 @@ html {
 .aligned-text_center {
   width: 339px;
   margin: 0 auto 0 auto;
-  
 }
 
 .aligned-text_right {
@@ -171,7 +169,7 @@ html {
   display: flex;
   flex-direction: column;
   height: 596px;
-  width: 334px; 
+  width: 334px;
   padding: 48px 40px 48px 40px;
   color: #fff;
   background-size: cover;
@@ -219,7 +217,7 @@ html {
   position: relative;
   z-index: 2;
   width: 254px;
-  margin-top: auto;       
+  margin-top: auto;
 }
 
 .lots__look-more-link {
@@ -296,7 +294,6 @@ html {
 
 .footer__menu {
   justify-self: center;
-  
 }
 
 .footer__menu-list {
@@ -308,7 +305,7 @@ html {
 
 .footer__menu-link {
   text-underline-offset: 4px;
-  white-space: nowrap; 
+  white-space: nowrap;
 }
 
 .footer__menu-link_active {
